@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusaslancan&langs_count=3&theme=dark" /> </a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusaslancan&show_icons=true&theme=dark" /></a>
+<!--
+<a href="https://github.com/omeremreelmali/mediaPlayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omeremreelmali&repo=mediaPlayer&theme=dark" />
+</a>
+<a href="https://github.com/omeremreelmali/studentlearn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omeremreelmali&repo=studentlearn&theme=dark" />
+</a>
+
+
 <!--
 **yunusaslancan/yunusaslancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
