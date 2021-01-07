@@ -2,8 +2,7 @@
 
 
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusaslancan&langs_count=3&theme=dark" /> </a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusaslancan&show_icons=true&theme=dark" /></a>
+
 
 <a><img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -16,12 +15,12 @@
 
 	
 
-<!--
-<a href="https://github.com/omeremreelmali/mediaPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omeremreelmali&repo=mediaPlayer&theme=dark" />
+
+<a href="https://github.com/yunusaslancan/mediaPlayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunusaslancan&repo=mediaPlayer&theme=dark" />
 </a>
-<a href="https://github.com/omeremreelmali/studentlearn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omeremreelmali&repo=studentlearn&theme=dark" />
+<a href="https://github.com/yunusaslancan/studentlearn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunusaslancan&repo=studentlearn&theme=dark" />
 </a>
 
 
